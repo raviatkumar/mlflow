@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/mlflow/mlruns/0/9b9681f0fa76444f9c6ba19bd7ee6bad/artifacts
+end_time: 1711879928158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b9681f0fa76444f9c6ba19bd7ee6bad
+run_name: unequaled-shrike-883
+run_uuid: 9b9681f0fa76444f9c6ba19bd7ee6bad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711879879561
+status: 3
+tags: []
+user_id: aarud
